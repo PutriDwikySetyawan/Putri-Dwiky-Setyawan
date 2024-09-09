@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\bin\Debug\net8.0\26 Putri Dwiky Setyawan.exe
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\bin\Debug\net8.0\26 Putri Dwiky Setyawan.deps.json
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\bin\Debug\net8.0\26 Putri Dwiky Setyawan.runtimeconfig.json
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\bin\Debug\net8.0\26 Putri Dwiky Setyawan.dll
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\bin\Debug\net8.0\26 Putri Dwiky Setyawan.pdb
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.AssemblyInfo.cs
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.dll
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\refint\26 Putri Dwiky Setyawan.dll
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.pdb
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\26 Putri Dwiky Setyawan.genruntimeconfig.cache
+C:\Users\user\source\repos\26 Putri Dwiky Setyawan\obj\Debug\net8.0\ref\26 Putri Dwiky Setyawan.dll
